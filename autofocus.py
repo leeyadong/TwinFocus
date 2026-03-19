@@ -126,8 +126,8 @@ def main(filename: str, rand_seed=2026) -> None:
     print("Processing File: ", filename)
 
     # load radar adc data
-    if filename.find("foam") != -1:
-        radar_frames_ref = np.load(f"../data/adc_data/ref_real/nlos_{letter}_foam.npy")
+    if filename.find("polyester") != -1:
+        radar_frames_ref = np.load(f"../data/adc_data/ref_real/nlos_{letter}_polyester.npy")
     else:
         radar_frames_ref = np.load(f"../data/adc_data/ref_real/nlos_{letter}_other.npy")
 
