@@ -1,4 +1,9 @@
-# TwinFocus
+# TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References
+### Authors: [Yadong Li](yadongli.com), [Xinghua Sun](https://xsun2445.github.io/), Qiancheng Li, [Akshay Gadre](https://www.akshaygadre.com/), MobiSys'26.
+
+
+
+
 
 This code requires a GPU with performance at least comparable to an RTX 4090 to achieve a reasonable
 runtime.
@@ -30,3 +35,24 @@ The results will be saved in
 ```bash
 /TwinFocus/results
 ```
+
+## Citing
+If you find this code useful for your research, please consider citing the following paper:
+```
+@inproceedings{twinfocus,
+author = {Li, Yadong and Sun, Xinghua and Li, Qiancheng and Gadre, Akshay},
+title = {TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References},
+year = {2026},
+isbn = {9798400720277},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3745756.3809185},
+doi = {10.1145/3745756.3809185},
+booktitle = {Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services},
+pages = {1–13},
+numpages = {13},
+location = {University of Cambridge, Cambridge, United Kingdom},
+series = {MobiSys '26}
+}
+```
+
