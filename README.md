@@ -1,5 +1,5 @@
 # TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References
-### Authors: [Yadong Li](yadongli.com), [Xinghua Sun](https://xsun2445.github.io/), Qiancheng Li, [Akshay Gadre](https://www.akshaygadre.com/), MobiSys'26.
+### Authors: [Yadong Li](https://yadongli.com), [Xinghua Sun](https://xsun2445.github.io/), Qiancheng Li, [Akshay Gadre](https://www.akshaygadre.com/), MobiSys'26.
 
 
 
